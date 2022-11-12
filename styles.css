@@ -1,0 +1,31 @@
+*{
+box-sizing: border-box;
+
+}
+div{
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+section{
+    font-size: 14px;
+    padding: 50px;
+    margin: 20px;
+}
+div h3{
+    font-size: 18px;
+}
+.section-one{
+    color: green;
+    border-bottom: 1px solid rgb(139, 122, 122);
+    
+}
+.section-two{
+    color: red;
+    border-bottom: 1px solid brown;
+}
+.section-three{
+    color: blue;    
+}
